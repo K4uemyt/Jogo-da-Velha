@@ -22,5 +22,5 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome] como parte da prova de suficiência da disciplina de Introdução à Programação do curso de Sistemas de Informação da FURB.
+Este projeto foi desenvolvido por Kauê Michel Reblin Kloth como parte da prova de suficiência da disciplina de Introdução à Programação do curso de Sistemas de Informação da FURB.
 
