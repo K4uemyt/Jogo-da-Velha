@@ -18,7 +18,7 @@ Para executar o projeto, basta compilar os arquivos `.java` e executar o arquivo
 
 ## Contribuições
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorar o código, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorar o código, sinta-se à vontade para abrir uma issue.
 
 ## Autor
 
